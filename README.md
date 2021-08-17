@@ -1,8 +1,7 @@
-Welcome friend, here's some info about me! 🤙
+Welcome, here's some info about me! 🤙
 
 - 📚 Studying engineering at the University of Toronto
-- 🧩 Passionate about product, data and ML
-- 🎲 Learning new algorithms and iOS development
+- 🧩 Passionate about product, data and machine learning
 - 🚴‍ Staying active through biking, basketball and tennis
 - 📩 Reach me at pascal.kardjian@mail.utoronto.ca
 
